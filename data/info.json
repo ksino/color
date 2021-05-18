@@ -1,0 +1,16 @@
+{
+  "file": "letter.txt",
+  "message": "某某 你知道我们相识多久了吗？",
+  "love": "你的",
+  "signal": "某某",
+  "tips": "点击一下这里吧！",
+  "year": 2020,
+  "month": 5,
+  "day": 24,
+  "hour": 23,
+  "minute": 39,
+  "second": 0,
+  "is_skip": true,
+  "speed": 100,
+  "version": "0.0.14"
+}
